@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  A macOS menu bar app that lets you try a 14-inch workspace on a 16-inch MacBook Pro.
+  A macOS app for people who already have a 16-inch MacBook Pro and want to experience a 14-inch MacBook Pro workspace on their own machine.
 </p>
 
 <p align="center">
@@ -41,7 +41,7 @@
 
 ## What It Does
 
-Preview14 is a macOS menu bar app built for the internal display of a 16-inch MacBook Pro.
+Preview14 is a macOS app built for people who already use a 16-inch MacBook Pro and want to test a 14-inch-style workspace on that same machine.
 
 Instead of just covering part of the screen with a fake overlay, it creates a smaller centered workspace that feels much closer to actually using a 14-inch machine. It moves native app windows into that workspace and combines the effect with a virtual menu bar and a mock Dock so you can judge real day-to-day usability.
 
@@ -120,7 +120,7 @@ If you only want to evaluate whether a 14-inch machine fits your workflow, the f
 
 - Current builds support the built-in display of a `16-inch MacBook Pro`
 - Minimum supported OS is `macOS 15`
-- The app currently ships as a direct-download menu bar app, not a Mac App Store app
+- The app currently ships as a direct-download macOS app, not a Mac App Store app
 - `Accessibility` permission is required for cross-app window movement and restoration
 
 If your machine is not using a supported 16-inch MacBook Pro internal display, the app will report that the current build is unsupported.
