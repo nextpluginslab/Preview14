@@ -1,7 +1,7 @@
 # Preview14
 
 <p align="center">
-  <img src="./App/AppIcon.png" alt="Preview14 app icon" width="128" height="128">
+  <img src="assets/readme/app-icon.png" alt="Preview14 app icon" width="128" height="128">
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 <p align="center">
   <a href="https://github.com/nextpluginslab/Preview14/releases/latest">
-    <img src="./landing-page/assets/download-badge.png" alt="Download Preview14 for macOS" height="56">
+    <img src="assets/readme/download-badge.png" alt="Download Preview14 for macOS" width="245">
   </a>
 </p>
 
@@ -21,6 +21,23 @@
   ·
   <a href="#get-pro"><strong>Get Pro</strong></a>
 </p>
+
+## Before / After
+
+<table>
+  <tr>
+    <td align="center"><strong>Before</strong></td>
+    <td align="center"><strong>After</strong></td>
+  </tr>
+  <tr>
+    <td><img src="assets/readme/before-16-inch.png" alt="Before: native 16-inch desktop layout" width="100%"></td>
+    <td><img src="assets/readme/after-14-inch.png" alt="After: Preview14 constrained 14-inch workspace" width="100%"></td>
+  </tr>
+  <tr>
+    <td align="center">Full 16-inch desktop workspace</td>
+    <td align="center">Centered 14-inch preview workspace</td>
+  </tr>
+</table>
 
 ## What It Does
 
@@ -118,8 +135,7 @@ Preview14 exists to answer that before you spend money on different hardware.
 
 - Main app source lives in `Sources/FourteenInchPreview/`
 - Packaging and release scripts live in `build-tools/`
-- Landing page assets and download badge live in `landing-page/`
+- README images and download badge live in `assets/readme/`
 - Release artifacts are written to `dist/`
 
 If you need signing or release details, start with `build-tools/README.md`.
-

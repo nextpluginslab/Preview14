@@ -1,0 +1,11 @@
+<svg width="420" height="96" viewBox="0 0 420 96" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Download Preview14 for macOS</title>
+  <desc id="desc">A black rounded download badge with a download arrow icon and the label Download for macOS.</desc>
+  <rect x="2" y="2" width="416" height="92" rx="22" fill="#111111"/>
+  <rect x="2" y="2" width="416" height="92" rx="22" stroke="#2B2B2B" stroke-width="4"/>
+  <rect x="22" y="20" width="56" height="56" rx="16" fill="#1D4ED8"/>
+  <path d="M50 32C50 30.8954 49.1046 30 48 30C46.8954 30 46 30.8954 46 32V49.1716L40.4142 43.5858C39.6332 42.8047 38.3668 42.8047 37.5858 43.5858C36.8047 44.3668 36.8047 45.6332 37.5858 46.4142L46.5858 55.4142C47.3668 56.1953 48.6332 56.1953 49.4142 55.4142L58.4142 46.4142C59.1953 45.6332 59.1953 44.3668 58.4142 43.5858C57.6332 42.8047 56.3668 42.8047 55.5858 43.5858L50 49.1716V32Z" fill="white"/>
+  <path d="M38 60C38 58.8954 38.8954 58 40 58H56C57.1046 58 58 58.8954 58 60C58 61.1046 57.1046 62 56 62H40C38.8954 62 38 61.1046 38 60Z" fill="white"/>
+  <text x="94" y="38" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="18" font-weight="600">Direct Download</text>
+  <text x="94" y="64" fill="white" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="26" font-weight="700" textLength="286" lengthAdjust="spacingAndGlyphs">Download for macOS</text>
+</svg>
