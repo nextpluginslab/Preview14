@@ -9,13 +9,13 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/nextpluginslab/Preview14/releases/latest">
+  <a href="https://github.com/nextpluginslab/Preview14/releases/download/v1.1/14-inch.Preview.dmg">
     <img src="assets/readme/download-badge.png" alt="Download Preview14 for macOS" width="245">
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nextpluginslab/Preview14/releases/latest"><strong>Download Latest Release</strong></a>
+  <a href="https://github.com/nextpluginslab/Preview14/releases/download/v1.1/14-inch.Preview.dmg"><strong>Download DMG</strong></a>
   ·
   <a href="https://www.youtube.com/watch?v=X3zQLOrlobA"><strong>Watch Demo</strong></a>
   ·
@@ -68,7 +68,7 @@ If you want to test that before buying different hardware, this app is for that.
 
 ## Installation
 
-1. Open the [latest release page](https://github.com/nextpluginslab/Preview14/releases/latest)
+1. Open the [download link](https://github.com/nextpluginslab/Preview14/releases/download/v1.1/14-inch.Preview.dmg)
 2. Download the `.dmg`
 3. Open the disk image and drag `14-inch Preview.app` into `Applications`
 4. Launch the app from `Applications`, Launchpad, or Spotlight
